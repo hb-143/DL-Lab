@@ -1,0 +1,14 @@
+1.a Implementation of NAND, AND, NOR, OR gates using perceptron
+1.b Implementation of XOR function using DNN
+
+2. Create a multilayer neural network for choosen dataset
+
+3.a Implement deep neural network DNN for regression problems
+
+3.b Implement a deep neural network DNN for regression problems (California housing data)
+
+4. Implement CNN and use them to classify images
+
+5. Implement recurrent neural network for prediction problem
+
+6. Implement LSTM to predict next word
