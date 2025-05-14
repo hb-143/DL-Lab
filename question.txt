@@ -1,0 +1,76 @@
+1.Design and Implement Multi-Layer Perceptron for MNIST Dataset with below requirements
+Display total number of data with classes
+Follow 70:30 Split ratio
+Learning rate: 0.4
+Optimizer of your choice
+Use Minimum 3 hidden layers and Minimum 15 epochs
+Display training and validation loss graph
+
+https://colab.research.google.com/drive/1g0D8zSO06-OiaKMrz_Px5HblYKINLK8r?usp=sharing
+
+2.Design and Implement Multi-Layer Perceptron for CIFAR-10 Dataset with below requirements
+Display total number of data with classes
+Follow 70:30 Split ratio
+Learning rate: 0.4
+Optimizer of your choice
+Use Minimum 3 hidden layers and Minimum 15 epochs
+Display training and validation loss graph
+
+https://colab.research.google.com/drive/19NOiK6kFR2dCRCsruydCG15nT8srcG3i?usp=sharing
+
+3.Design and Implement Multi-Layer Perceptron for cats_vs_dogs Dataset with below requirements
+Display total number of data with classes
+Follow 70:30 Split ratio
+Learning rate: 0.4
+Optimizer of your choice
+Use Minimum 3 hidden layers and Minimum 15 epochs
+Display training and validation loss graph
+
+https://colab.research.google.com/drive/1P15gI-cECE4Y60jZfVGGEBH2ubM2E4H5?usp=sharing
+
+4.Design and  Implement XOR function using Deep Neural Network
+
+https://colab.research.google.com/drive/1llsErbZWhe9DhKlhJPzBEez23v-s1cZV?usp=sharing
+
+5.Design and Implement CNN for Emotion recognition using facial images with own parameters
+https://www.kaggle.com/datasets/apollo2506/facial-recognition-dataset
+
+https://colab.research.google.com/drive/1LhvBCEFQD6qjsCVe-nDhdxcrI0EfsTGZ?usp=sharing
+
+6.Design and Implement CNN for Handwritten character recognition with own parameters
+https://www.kaggle.com/datasets/landlord/handwriting-recognition
+
+
+7.Design and Implement CNN to classify the skin cancer type with own parameters
+https://www.kaggle.com/datasets/fanconic/skin-cancer-malignant-vs-benign
+
+
+8.Design and Implement CNN to classify the lions and cheetahswith own parameters.
+https://www.kaggle.com/datasets/mikoajfish99/lions-or-cheetahs-image-classification
+
+9.Design and Implement CNN to classify thebutterfly specieswith own parameters.
+https://www.kaggle.com/datasets/phucthaiv02/butterfly-image-classification
+
+
+
+10.Implement Recurrent neural networks for predicting book sales. 
+https://drive.google.com/file/d/17KkrqgkOAuyQfb6D_pWHRNqmFUMe8fnY/view?usp=drive_link
+
+11.Perform Timeseries prediction using LSTM (Generate sample data of your own and predict).
+
+12.Use facial image of a person and classify his/her age into Young, Middle and Old
+https://www.kaggle.com/datasets/arashnic/faces-age-detection-dataset
+
+
+
+13. Use MNIST dataset and perform classification with the below hyper parameter scenarios and 
+compare the training and validation accuracy of all the scenarios
+
+	Scenario 1	Scenario 2	Scenario 3	Scenario 4
+Activation function (Only for Hidden Layers)	Sigmoid	Relu	Tanh	Sigmoid
+No of Epochs	24	25	21	23
+Validation Split	0.3	0.2	0.1	0.2
+Optimizer	Adagrad	Adam	Adadelta	Adam
+Learning Rate	0.001	0.001	0.001	0.001
+
+
